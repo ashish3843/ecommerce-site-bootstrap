@@ -1,0 +1,33 @@
+.panda-slide .carousel-item{
+    background-color: lightskyblue;
+    border-radius: 1em;
+}
+.slide-img img{
+    height: 300px;
+}
+.panda-catagori img{
+    height: 100px;
+}
+.panda-product{
+    border: none;
+    background-color: lime;
+}
+.subscrib{
+    background-color: lightpink;
+    border-radius: 1em;
+}
+.panda-button{
+    background-color: rgb(238, 85, 174);
+    color: white;
+    border: none;
+    background-image: linear-gradient(65deg);
+}
+.panda-button:hover{
+    background-color: rgb(211, 32, 157);
+    color: white;
+}
+@media (max-width:800px){
+    .panda-product{
+        
+    }
+}
